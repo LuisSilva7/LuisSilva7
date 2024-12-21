@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Luís Silva
 Hello, world! I'm Luís Silva, a Master's student in Engineering and Management of Information Systems.
 Passionate about Software Engineering, I’m eager to deepen my knowledge and solve real-world problems through technology.
