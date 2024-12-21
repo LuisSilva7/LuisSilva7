@@ -6,7 +6,7 @@ Passionate about Software Engineering, I’m eager to deepen my knowledge and so
 ```javascript
 let skills = {
     languages: ['Java', 'JavaScript', 'Html', 'CSS'],
-    frameworks: ['Spring', 'React', 'Vue.js'],
+    frameworks: ['Spring', 'Quarkus', 'React', 'Vue.js'],
     databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
     platforms: ['GitHub', 'Docker', 'Netlify'],
     tools: ['Postman', 'IntelliJ IDEA', 'VS Code'],
