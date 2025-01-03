@@ -5,9 +5,8 @@ Passionate about Software Engineering, I’m eager to deepen my knowledge and so
 ## Technical Stack 🛠️
 ```javascript
 let skills = {
-    languages: ['Java', 'JavaScript', 'Html', 'CSS'],
-    frameworks: ['Spring', 'Quarkus', 'React', 'Vue.js'],
-    databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
+    languages: ['Java', 'JavaScript', 'Python', 'C', 'Html', 'CSS', 'SQL'],
+    frameworks: ['Spring Boot', 'Quarkus', 'React', 'Vue.js'],
     platforms: ['GitHub', 'Docker', 'Netlify'],
     tools: ['Postman', 'IntelliJ IDEA', 'VS Code'],
 };
@@ -23,10 +22,9 @@ let skills = {
 - **[HealthLink](https://github.com/LuisSilva7/healthLink-project)**: A platform for quickly booking medical appointments, with management of schedules and specialties.
 
 ## Professional Goals 🎯
-- Gaining practical experience in software development and problem-solving roles
-- Building impactful and scalable tech solutions through logical thinking and creativity
-- Continuously learning new technologies and improving coding skills
-- Contributing to projects that address real-world challenges and drive innovation
+- Gain practical experience in software development and problem-solving roles
+- Build impactful and scalable tech solutions through logical thinking and creativity
+- Continuously learn new technologies and improve coding skills
 
 ## Connect With Me 📬
 - **LinkedIn**: [in/luis-silva7](https://linkedin.com/in/luis-silva7)
