@@ -12,7 +12,7 @@ let skills = {
 ```
 
 ## Key Projects 📚
-- **[MovieVerse](https://github.com/LuisSilva7/taskly-project)**: A project management platform designed to streamline task organization and team collaboration.
+- **[Taskly](https://github.com/LuisSilva7/taskly-project)**: A project management platform designed to streamline task organization and team collaboration.
 
 - **[MovieVerse](https://github.com/LuisSilva7/movieVerse-project)**: An online platform for browsing, searching, and purchasing movies.
 
