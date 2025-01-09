@@ -29,6 +29,6 @@ let skills = {
 
 ## Connect With Me 📬
 - **LinkedIn**: [in/luis-silva7](https://linkedin.com/in/luis-silva7)
-<!-- - **Portfolio**: [link](https://link) -->
+- **Portfolio**: [luisilva.tech](https://www.luisilva.tech)
 
 I’m excited to collaborate on projects that use technology to drive positive social change. Let’s connect 🌍
