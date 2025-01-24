@@ -4,7 +4,7 @@ I'm a Master's student in Engineering and Management of Information Systems, bas
 ## Technical Stack 🛠️
 ```javascript
 let skills = {
-    languages: ['Java', 'JavaScript', 'Python', 'C', 'Html', 'CSS', 'SQL'],
+    languages: ['Java', 'JavaScript', 'Go', 'Python', 'C', 'Html', 'CSS', 'SQL'],
     frameworks: ['Spring Boot', 'Quarkus', 'React', 'Vue.js'],
     platforms: ['GitHub', 'Docker', 'Netlify'],
     tools: ['Postman', 'IntelliJ IDEA', 'VS Code'],
